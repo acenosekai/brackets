@@ -15,7 +15,7 @@
     var forceFiles = window.location.search.indexOf("forceFiles=1") > -1;
 
     // Default filesystem content
-    var projectRoot = "/7/projects/30";
+    var projectRoot = "/projects/bramble";
 
     var index = "<html>\n"                                  +
                 "  <head>\n"                                +
